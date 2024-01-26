@@ -246,6 +246,7 @@ img {
         width: 100%;
         min-height: 100vh;
         justify-content: space-between;
+        height:-webkit-fill-avaliable;
     }
 
     .results, .container {
@@ -256,4 +257,5 @@ img {
 
 
     .desc { font-size: 1.25rem;}
+
 }
