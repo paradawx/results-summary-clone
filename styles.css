@@ -210,7 +210,15 @@ li {
     font-weight: 600;
 }
 
+li:hover {
+    transform: scale(1.05);
+    transition: .5s ease;
+}
 
+.circle:hover {
+    transform: scale(1.1);
+    transition: .5s ease;
+}
 
 img {
     max-width: 1.4rem;

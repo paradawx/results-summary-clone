@@ -1,0 +1,47 @@
+# Frontend Mentor - Result Summary Clone
+
+This is a solution to the [Review Summary challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV/hub).
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+## Overview
+
+### The challenge
+
+Recreate the result summary component utilizing gradients, hover states, flexbox, grid, hsl colours, dropshadows ect.
+
+### Screenshot
+
+(![Review Summary](images/paradawxblog-card-clone.PNG))
+
+### Links
+
+- Live Site URL: [https://paradawx.github.io/results-summary-clone/](https://paradawx.github.io/results-summary-clone/)
+
+### Built with
+
+HTML & CSS
+
+### What I learned
+
+Was my first time using media queries and custom properties for the colours. Not super happy with the orginization of the CSS.
+
+```css
+
+```
+
+## Author
+
+- Frontend Mentor - [@dawsonjoyner](https://www.frontendmentor.io/profile/dawsonjoyner)
